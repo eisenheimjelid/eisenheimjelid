@@ -4,13 +4,13 @@
 [![](https://img.shields.io/badge/-twitter-1C9CEA?style=for-the-badge)](https://twitter.com/jelidleon)
 [![](https://img.shields.io/badge/-blog-EE3E5D?style=for-the-badge)](https://www.davfl.com.mx/)
 
-![](https://64.media.tumblr.com/46d6498c78786b6c6c389d714669cfc5/995177b8096922ba-60/s540x810/cd18c4bbddfacda7cc165d45c9c42061ad90f9d4.gifv)
+![](https://i.imgur.com/XFHJXFK.png)
 
 ### About me
 
-Professional in technology of information, webmaster by conviction, web developer for pure pleasure and project manager by circumstance. Free software, creative commons and opensource fan, addict and activist.
+Professional in technology of information, webmaster by conviction, Web Developer and now **DevOps Engineer** for pure pleasure. Free software, creative commons and opensource fan, addict and activist.
 
-Soy de México 🇲🇽️ , hablante nativo de Español pero en el proceso de aprender Inglés, entre otros idiomas. Me gusta todo lo que tenga que ver con tecnología, egresado de la UPIICSA, me gusta participar en comunidades y ampliar mi red de contactos, sientete libre de mandarme algún saludo en mis redes sociales. 😎️
+Soy de México 🇲🇽️ , hablante nativo de Español pero en el proceso de aprender Inglés, entre otros idiomas. Me gusta todo lo que tenga que ver con tecnología, egresado de la **UPIICSA**, me gusta participar en comunidades y ampliar mi red de contactos, sientete libre de mandarme algún saludo en mis redes sociales. 😎️
 
 ### Languages
 
