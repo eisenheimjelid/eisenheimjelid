@@ -8,20 +8,24 @@
 
 ### About me
 
-Professional in technology of information, webmaster by conviction, Web Developer and now **DevOps Engineer** for pure pleasure. Free software, creative commons and opensource fan, addict and activist.
+Professional in technology of information (informatic), webmaster by conviction, Web Developer and now **DevOps Engineer** for pure pleasure. Free software, creative commons and opensource fan, addict and activist.
 
 Hobbies/Interests 🤖️ 👾️ 🚀️ 🚴‍ 💘️ 🐶️ 🌸️
 
-Soy de México 🇲🇽️ , hablante nativo de Español pero en el proceso de aprender Inglés, entre otros idiomas. Me gusta todo lo que tenga que ver con tecnología, egresado de la **UPIICSA**, me gusta participar en comunidades y ampliar mi red de contactos, sientete libre de mandarme algún saludo en mis redes sociales. 😎️
+Soy de México 🇲🇽️ , hablante nativo de Español pero en el proceso de aprender Inglés, entre otros idiomas. Me gusta todo lo que tenga que ver con tecnología, egresado de la **UPIICSA**, me gusta participar en comunidades y ampliar mi red de contactos, sientete confiada de enviarme algún saludo en mis redes sociales. 😎️
 
 ### Languages
 
-Python, PHP, Java, Javascript, C++, C#
+Python, PHP, Java, Go, Javascript, C/C++, C#, HTML/CSS, SQL, Visual Basic, HCL, JSON, XML, Ruby.
 
 ### Tools
 
-PyCharm, VSCode, GitLab
+PyCharm, VSCode, Django, Git, Github, GitLab (self-hosted), Docker, Terraform, Ansible, AJAX, PostgreSQL, MySQL, SQL Server, SQP HANA, AWS EC2, GCP, Atom, Apache, Nginx, Redmine, Wordpress, Drupal, Joomla, Codeigniter, Sublime, jQuery, Subversion, Debian GNU/Linux, CentOS, Ubuntu, RedHat RHEL, New Relic, Netbeans, Eclipse, Ninja IDE, Ruby on Rails, Spring, Hibernate, Symfony, Microstrategy BI, Tomcat, Dreamweaver, EmberJS, SAP BO, Salesforce.
 
-### Working on ...
+### Methodologies and others
+
+DevOps, Agile, Kanban, SCRUM, ITIL, PMP, Cascade, Ethical hacking.
+
+### Working last week on ...
 
 [![eisenheim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jelidleon)](https://github.com/eisenheimjelid)
