@@ -10,7 +10,7 @@
 
 Professional in technology of information (informatic), webmaster by conviction, Web Developer and now **DevOps Engineer** for pure pleasure. Free software, creative commons and opensource fan, addict and activist.
 
-Hobbies/Interests 🤖️ 👾️ 🚀️ 🚴‍ 💘️ 🐶️ 🌸️
+Hobbies/Interests 💘️ 🤖️ 👾️ 🚀️ 🚴‍ 🐶️ 🌸️
 
 Soy de México 🇲🇽️ , hablante nativo de Español pero en el proceso de aprender Inglés, entre otros idiomas. Me gusta todo lo que tenga que ver con tecnología, egresado de la **UPIICSA**, me gusta participar en comunidades y ampliar mi red de contactos, sientete confiada de enviarme algún saludo en mis redes sociales. 😎️
 
