@@ -16,11 +16,11 @@ Soy de México 🇲🇽️ , hablante nativo de Español pero en el proceso de a
 
 ### Languages
 
-Python, PHP, Java, Go, Javascript, C/C++, C#, HTML/CSS, SQL, Visual Basic, HCL, JSON, XML, Ruby.
+Python, PHP, Java, Go, Javascript, C/C++, C#, Bash/Shell, HTML/CSS, SQL, Visual Basic, HCL, JSON, XML, Ruby.
 
 ### Tools
 
-PyCharm, VSCode, Django, Git, Github, GitLab (self-hosted), Docker, Terraform, Ansible, AJAX, PostgreSQL, MySQL, SQL Server, SQP HANA, AWS EC2, GCP, Atom, Apache, Nginx, Redmine, Wordpress, Drupal, Joomla, Codeigniter, Sublime, jQuery, Subversion, Debian GNU/Linux, CentOS, Ubuntu, RedHat RHEL, New Relic, Netbeans, Eclipse, Ninja IDE, Ruby on Rails, Spring, Hibernate, Symfony, Microstrategy BI, Tomcat, Dreamweaver, EmberJS, SAP BO, Salesforce.
+PyCharm, VSCode, Django, Git, Github, GitLab (self-hosted), Docker, Terraform, Ansible, Pelican, AJAX, PostgreSQL, MySQL, SQL Server, SQP HANA, AWS EC2, GCP, Atom, Apache, Nginx, Redmine, Wordpress, Drupal, Joomla, Codeigniter, Sublime, jQuery, Subversion, Debian GNU/Linux, CentOS, Ubuntu, RedHat RHEL, New Relic, Netbeans, Eclipse, Ninja IDE, Ruby on Rails, Spring, Hibernate, Symfony, Microstrategy BI, Tomcat, Dreamweaver, EmberJS, SAP BO, Salesforce.
 
 ### Methodologies and others
 
