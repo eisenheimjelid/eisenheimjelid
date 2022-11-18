@@ -29,3 +29,8 @@ DevOps, Agile, Kanban, SCRUM, ITIL, PMP, Cascade, Ethical hacking.
 ### Working last week on ...
 
 [![eisenheim's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=jelidleon)](https://github.com/eisenheimjelid)
+
+## Badges
+
+[![@davidlorius's Holopin board](https://holopin.me/davidlorius)](https://holopin.io/@davidlorius)
+
