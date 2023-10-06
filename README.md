@@ -32,4 +32,4 @@ DevOps, Agile, Kanban, SCRUM, ITIL, PMP, Cascade, Ethical hacking.
 
 ## Badges
 
-[![@jelidleon's Holopin board](https://holopin.me/jelidleon)](https://holopin.io/@jelidleon)
+[![An image of @jelidleon's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/jelidleon)](https://holopin.io/@jelidleon)
