@@ -32,6 +32,4 @@ DevOps, Agile, Kanban, SCRUM, ITIL, PMP, Cascade, Ethical hacking.
 
 ## Badges
 
-[![@davidlorius's Holopin board](https://holopin.me/davidlorius)](https://holopin.io/@davidlorius)
-
 [![@jelidleon's Holopin board](https://holopin.me/jelidleon)](https://holopin.io/@jelidleon)
